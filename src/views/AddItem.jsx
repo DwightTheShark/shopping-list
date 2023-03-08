@@ -223,7 +223,7 @@ export function AddItem({ listToken, data }) {
 					<div className="add-icon">
 						<div className="add-icon-container">
 							<img
-								src="../../public/img/robot-success.png"
+								src="../../img/robot-success.png"
 								alt="robot hands on hips triumphant"
 								id="add-robot-img"
 							/>

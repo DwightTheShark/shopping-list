@@ -51,7 +51,7 @@ export function Home({
 			<div className="home-icon">
 				<div className="home-icon-container">
 					<img
-						src="../../public/img/robot-wave.png"
+						src="../../img/robot-wave.png"
 						alt="robot waving"
 						id="home-robot-img"
 					/>

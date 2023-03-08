@@ -55,7 +55,7 @@ export function List({ data, listToken, tokenHistory }) {
 					<div className="list-icon">
 						<div className="list-icon-container">
 							<img
-								src="../../public/img/robot-wink.png"
+								src="../../img/robot-wink.png"
 								alt="robot winking"
 								id="list-robot-img"
 							/>
@@ -106,7 +106,7 @@ export function List({ data, listToken, tokenHistory }) {
 									<div className="list-icon">
 										<div className="list-icon-container">
 											<img
-												src="../../public/img/robot-mad.png"
+												src="../../img/robot-mad.png"
 												alt="upset robot with steam coming out of ears"
 												id="list-robot-img"
 											/>

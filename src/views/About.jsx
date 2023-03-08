@@ -8,7 +8,7 @@ export function About() {
 			<div className="about-icon">
 				<div className="about-icon-container">
 					<img
-						src="../../public/img/robot-wink.png"
+						src="../../img/robot-wink.png"
 						alt="robot winking"
 						id="about-robot-img"
 					/>
